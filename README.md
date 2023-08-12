@@ -1,4 +1,4 @@
-- Hi 👋, I'm Siddharth Singh.
+- Hi 👋, I'm **Siddharth Singh.**
 
 - 👨‍💻 Skills: **Java, Data Structures & Algorithms, Spring Framework , Google Cloud.**
   
