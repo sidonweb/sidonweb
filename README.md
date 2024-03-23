@@ -1,8 +1,8 @@
 - Hi 👋, I'm **Siddharth Singh.**
 
-- 👨‍💻 Skills: **Java, Data Structures & Algorithms, Spring Framework , Google Cloud.**
+- 👨‍💻 Skills: **MERN, PostgreSQL, Docker, NextJS, AWS**
   
-- 🌱 I’m currently learning **Java Spring, Kubernetes, GCP for DevOps.**
+- 🌱 I’m currently learning **ReactJS, Docker, AWS and NextJS.**
 
 - 👯 I’m looking to collaborate on **non-profit interesting projects.**
 
