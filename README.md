@@ -3,7 +3,7 @@
 ## Full Stack Developer
 
 - Based in **Lucknow, India**.
-- See my portfolio at [**Tanay Vaswani**](https://sidonweb.com).
+- See my portfolio at [**Siddharth Singh**](https://sidonweb.com).
 - Reach out to me [**Email**](mailto:heysid88@gmail.com) or [**X/Twitter**](https://www.twitter.com/siddonweb).
 - Working with **Next.js, Typescript, TailwindCSS, PostgreSQL** nowadays!
 - Fiddling into **Web3 and AI/ML**.
