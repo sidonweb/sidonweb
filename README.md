@@ -2,14 +2,16 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sidonweb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidonweb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
+<h3 align="left"> Tools/Tech I use: </h3>
+
+<img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
 
 ###
 
@@ -38,7 +40,7 @@
 </div>
 
 ###
-
+<h3 align="left"> Socials: </h3>
 <div align="left">
   <a href="mailto:heysid88@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -52,9 +54,17 @@
 </div>
 
 ###
+<br/>
+<img src = https://spotify-recently-played-readme.vercel.app/api?user=31ksrnsgfosqfc5qxdhpclzsatcy&count=3 />
 
-<br clear="both">
+###
 
-<img src="https://raw.githubusercontent.com/sidonweb/sidonweb/output/snake.svg" alt="Snake animation" />
+
+
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sidonweb/count.svg?"  />
+</div>
 
 ###
