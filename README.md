@@ -1,5 +1,5 @@
-# Hey! I'm Siddharth👋🏼
-## Full Stack Developer
+# Hey! I'm Siddharth, a full-stack developer based in India.
+
 
 
 ## Tools & Technologies
