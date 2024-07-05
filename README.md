@@ -10,8 +10,7 @@
 ###
 
 <h3 align="left"> Tools/Tech I use: </h3>
-
-<img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
+<img align="right" height="400" src="https://github.com/sidonweb/sidonweb/assets/95767952/3cf2aa68-ac5d-44fc-96bf-ce2b10728beb"  />
 
 ###
 
