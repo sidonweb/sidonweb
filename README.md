@@ -10,7 +10,6 @@
 ###
 
 <h3 align="left"> Tools/Tech I use: </h3>
-<img align="right" height="400" src="https://github.com/sidonweb/sidonweb/assets/95767952/3cf2aa68-ac5d-44fc-96bf-ce2b10728beb"  />
 
 ###
 
@@ -37,24 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
-
-###
-<h3 align="left"> Socials: </h3>
-<div align="left">
-  <a href="mailto:heysid88@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sidonweb/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/siddonweb" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-<br/>
-<img src = https://spotify-recently-played-readme.vercel.app/api?user=31ksrnsgfosqfc5qxdhpclzsatcy&count=3 />
 
 ###
 
