@@ -11,17 +11,9 @@ Self-taught developer from India who builds clean, production-ready frontends wi
 - **Cloud & DevOps (Learning)**: AWS, CI/CD  
 - **Other**: Spline, Notion API, Figma, Git
 
-## ⚒️ What I Build
-
-- ⚙️ Dashboards with modular, isolated architecture  
-- 🧾 Dynamic forms, validators, multi-step flows  
-- 📊 API-integrated data tools  
-- 📱 Responsive SPAs with mobile-first design  
-- 🕹️ Fun side-projects like multiplayer games and GitHub stat trackers
-
 ## 🔗 Portfolio
 
-Check out some of my work at [sidonweb.com](https://sidonweb.com)
+Check out some of my work at [sidonweb.com](https://www.sidonweb.com)
 
 ---
 
